@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FFI Trainer Pro</string>
+    <string name="tab_practice">PRACTICE</string>
+    <string name="tab_trainer">TRAINER</string>
+    <string name="tab_statistics">STATISTICS</string>
+    <string name="tab_settings">SETTINGS</string>
+    <string name="privacy_declaration">FFI Trainer Pro is an offline training simulator. It does not collect, transmit or sell personal information. It does not modify or interact with Free Fire India.</string>
+    <string name="calibration_disclaimer">Independent simulator recommendations only — not verified Free Fire settings.</string>
+    <string name="offline_badge">100% OFFLINE SIMULATOR</string>
+</resources>

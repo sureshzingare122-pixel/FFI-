@@ -1,0 +1,6 @@
+{
+  "name": "FFI Trainer Pro",
+  "description": "Independent offline tactical aim, movement, reaction, and sensitivity calibration simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
